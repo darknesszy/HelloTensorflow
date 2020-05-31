@@ -2,6 +2,12 @@
 
 # Libraries
 
+## Base libraries used
+* tensorflow
+* matplotlib
+* numpy
+* notebook
+
 # Useful Resources
 
 The following NVIDIA® software must be installed on your system:
