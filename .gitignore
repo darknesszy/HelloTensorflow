@@ -6,3 +6,6 @@ Lib/
 Include/
 Scripts/
 pyvenv.cfg
+
+# Resources
+/assets
